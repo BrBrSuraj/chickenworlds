@@ -1,3 +1,16 @@
+## Steps Run project at first.
+
+<ul>
+<li>Git clone https://github.com/BrBrSuraj/chickenworlds.git</li>
+<li>make the .env and set the database credential</li>
+<li>generate the app key</li>
+<li>run command : php artisan migrate --seed</li>
+</ul>
+
+administrative login
+username: admin@admin.com
+pass: admin@321
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
